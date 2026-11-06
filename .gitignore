@@ -1,0 +1,27 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+ENV/
+
+# Python (arquivos compilados e cache)
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Dados gerados pelo sistema (conforme descrito no seu README)
+data/compliance_report.xlsx
+
+# Ferramentas de desenvolvimento / IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
